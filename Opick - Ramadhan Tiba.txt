@@ -7,5 +7,26 @@ Syifa Mawaddah
 Steven Harun Samba
 Eri Satrio Nusantara
 
+<<<<<<< HEAD
 Ramadhan tiba, semua bahagia
 Bulan terbebas api neraka
+=======
+<<<<<<< HEAD
+Ramadhan tiba, semua bahagia
+<<<<<<< HEAD
+Bulan ampunan, bulan yang berkah
+=======
+Tua dan muda bersuka cita 
+=======
+<<<<<<< HEAD
+Ramadhan tiba, semua bahagia
+>>>>>>> 50da172544a79af46c5f4031cf8b76dc484eaca2
+=======
+Ramadhan tiba, semua bahagia 
+Tua dan muda bersuka cita
+>>>>>>> c413dc9d51b23ffeb32ee798a546feb84b6c3377
+<<<<<<< HEAD
+=======
+>>>>>>> 2ebc8e2319d1f1dee83ef64c3026df68b22adb93
+>>>>>>> 50da172544a79af46c5f4031cf8b76dc484eaca2
+>>>>>>> dd48c584a1f4789173dcd07ac0099accee244a2f
